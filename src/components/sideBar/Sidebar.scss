@@ -79,12 +79,17 @@
 
         img {
           width: 60px;
+          border-radius: 50%;
         }
 
         .accountName {
           margin-left: 5px;
 
           h4 {
+            color: white;
+          }
+
+          span {
             color: white;
           }
         }
